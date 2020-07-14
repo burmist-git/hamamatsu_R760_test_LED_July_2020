@@ -1,0 +1,17 @@
+make clean; make convertUSBWC2root8ChannelsBin;
+
+echo ""
+./convertUSBWC2root8ChannelsBin 0 /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_015_Data_7_11_2020_Binary/dataFileListBin.dat /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_015_Data_7_11_2020_Binary/ /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/root_data/Run_015_Data_7_11_2020_Binary/Run_015_Data_7_11_2020_Binary.bin.root
+
+
+echo ""
+./convertUSBWC2root8ChannelsBin 0 /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_016_Data_7_11_2020_Binary/dataFileListBin.dat /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_016_Data_7_11_2020_Binary/ /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/root_data/Run_016_Data_7_11_2020_Binary/Run_016_Data_7_11_2020_Binary.bin.root
+
+
+echo ""
+./convertUSBWC2root8ChannelsBin 0 /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_017_Data_7_11_2020_Binary/dataFileListBin.dat /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_017_Data_7_11_2020_Binary/ /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/root_data/Run_017_Data_7_11_2020_Binary/Run_017_Data_7_11_2020_Binary.bin.root
+
+
+echo ""
+./convertUSBWC2root8ChannelsBin 0 /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_018_Data_7_11_2020_Binary/dataFileListBin.dat /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/data/Run_018_Data_7_11_2020_Binary/ /home/burmist/home2/hamamatsu_R760_test_LED_July_2020/root_data/Run_018_Data_7_11_2020_Binary/Run_018_Data_7_11_2020_Binary.bin.root
+
